@@ -12,3 +12,4 @@ Here, I explored historical weather patterns to uncover trends in temperature, p
 
 Explore global football match outcomes from 1899 to 2025. Analyze team performance, venue impact (home vs. away), and match trends across countries through interactive visuals and a dynamic map.
 
+[view all](https://public.tableau.com/app/profile/jamleck.mwaniki/vizzes)
